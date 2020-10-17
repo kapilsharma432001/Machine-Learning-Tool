@@ -3,7 +3,7 @@ A machine learning tool made using Tkinter library of python.
 
 
 It asks user to upload data and if user has uploaded the data in two parts then it will merge the uploaded files in one file.
-After uploading is done it will preprocess the data and user can apply different machine learning algorithms related to Regression , Classification, Clustering etc. on uplaoded data.
+After uploading is done it will preprocess the data and user can apply different machine learning algorithms related to Regression , Classification, Clustering etc. on uploaded data.
 
 # Screenshots
 
